@@ -42,7 +42,6 @@ body {
 
 h1,
 h2,
-h3,
 button,
 a {
     font-family: 'Open Sans', sans-serif;
@@ -190,6 +189,7 @@ form {
     form input[type="email"] {
         margin-right: 0;
         margin-inline: auto;
+        width: 90%;
     }
 
     form input[type="submit"] {
